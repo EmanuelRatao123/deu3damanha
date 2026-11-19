@@ -1,0 +1,6 @@
+{
+  "name": "RT: Deu 3 da Manhã",
+  "description": "Jogo 3D voxel de terror, comédia e exploração ambientado em Santa Batata, interior de Minas Gerais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
